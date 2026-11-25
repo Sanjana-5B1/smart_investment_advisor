@@ -220,9 +220,9 @@ smart_investment_advisor/
 
 # 👩‍💻 Author
 
-**Srinidhi Bhonagiri**
+**Sanjana Penchala**
 
-- GitHub: https://github.com/srinidhi0506
+- GitHub: https://github.com/Sanjana-5B1
 
 
 ---

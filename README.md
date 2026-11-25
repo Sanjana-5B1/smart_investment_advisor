@@ -152,7 +152,7 @@ Financial Insights
 ## Clone Repository
 
 ```bash
-git clone https://github.com/srinidhi0506/smart_investment_advisor.git
+git clone https://github.com/Sanjana-5B1/smart_investment_advisor.git
 
 cd smart_investment_advisor
 ```
